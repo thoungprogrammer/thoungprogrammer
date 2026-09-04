@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkzdTR1enpsM29vZDd6MzgycDZtOXc4enBpMjdrZDRrcGxkM2RxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5C9g5ii5XfEGMnrl6/giphy.gif" width="500" />
 </p>
 
-### 👨‍💻 Aspiring Software Developer | ITE Student
+### 👨‍💻 Software Engineer | ITE Student
 
 I'm passionate about programming, open-source development, and building useful software. I enjoy learning new technologies and solving real-world problems through code.
 
