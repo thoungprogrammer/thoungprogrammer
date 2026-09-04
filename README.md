@@ -1,44 +1,37 @@
 # Hi there, I'm Chanthoung 👋
 
-### Aspiring Software Developer | IT Student | Open-Source Enthusiast
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkzdTR1enpsM29vZDd6MzgycDZtOXc4enBpMjdrZDRrcGxkM2RxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5C9g5ii5XfEGMnrl6/giphy.gif" width="500" />
+</p>
 
-I'm a passionate IT student and aspiring software developer who enjoys learning new technologies, building projects, and solving problems through code.
+### 👨‍💻 Aspiring Software Developer | IT Student
+
+I'm passionate about programming, open-source development, and building useful software. I enjoy learning new technologies and solving real-world problems through code.
 
 * 👯 I’m looking to collaborate on open-source projects.
 * 🤝 I’m looking for help improving my programming skills.
 * 💬 Ask me about C, Python, Linux, and programming.
 * 🌱 I’m currently learning new technologies and improving my coding skills.
 * ⚡ I enjoy building projects and solving problems.
-* 🚀 My goal is to become a skilled software developer.
 
----
-
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,vscode" />
 </p>
 
----
+### 📌 Current Focus
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-* 💼 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* 💻 Software Development
+* 🧠 Algorithms & Data Structures
+* 🐧 Linux
+* 🌐 Web Development
+* 🤖 AI & Machine Learning
+* 🌍 Open Source
 
 ---
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  <i>“Always learning. Always building.”</i>
 </p>
+
