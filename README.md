@@ -1,7 +1,7 @@
 # Hi there, I'm Steav Geeky ( Chanthoung ) 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkzdTR1enpsM29vZDd6MzgycDZtOXc4enBpMjdrZDRrcGxkM2RxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5C9g5ii5XfEGMnrl6/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzkzdTR1enpsM29vZDd6MzgycDZtOXc4enBpMjdrZDRrcGxkM2RxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y5C9g5ii5XfEGMnrl6/giphy.gif" width="100%" />
 </p>
 
 ### 👨‍💻 Software Engineer | ITE Student
