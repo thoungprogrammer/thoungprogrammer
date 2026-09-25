@@ -1,7 +1,7 @@
 # Hi there, I'm Thoung Prime
 
 <p align="center">
-  <img src="https://c.tenor.com/rLu5b6bnCvEAAAAd/tenor.gif" width=100%" />
+  <img src="https://c.tenor.com/rLu5b6bnCvEAAAAd/tenor.gif" width=100% height=100%" />
 </p>
 
 ### 👨‍💻 Software Engineer | ITE Student
