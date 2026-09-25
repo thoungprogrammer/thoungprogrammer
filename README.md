@@ -29,23 +29,6 @@ I'm passionate about programming, open-source development, and building useful s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
-### 📌 Current Focus
-
-* 💻 Software Development
-* 🔐 Cybersecurity & Ethical Hacking
-* 🧠 Algorithms & Data Structures
-* 🐧 Linux & Networking
-* 🌐 Web Development
-* 🤖 AI & Machine Learning
-* 🌍 Open Source
-
-### 📚 Currently Learning
-
-* 🔐 Cybersecurity & Ethical Hacking
-* 🐧 Linux & Networking
-* 💻 Advanced Programming
-* 🧠 Problem Solving
-
 ---
 
 <p align="center">
