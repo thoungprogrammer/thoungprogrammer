@@ -1,37 +1,44 @@
-# Hi there, I'm Thoung Prime
+# Hi, I'm Thoung Prime 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNvMWRlaWNibzlibGsxc2xrc2JlemE4Y3Yza2J6aWNtZ2Y3cnB1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZO8ZYFEnvIfrEF6AAZ/giphy.gif" width=100% " />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNvMWRlaWNibzlibGsxc2xrc2JlemE4Y3Yza2J6aWNtZ2Y3cnB1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZO8ZYFEnvIfrEF6AAZ/giphy.gif" width="100%" />
 </p>
 
-### 👨‍💻 Software Engineer | ITE Student
+<h3 align="center">Software Engineer | ITE Student</h3>
 
-I'm passionate about programming, open-source development, and building useful software. I enjoy learning new technologies and solving real-world problems through code.
+<p align="center">
+  Building software, learning continuously, and exploring technology.
+</p>
 
-* 👯 I’m looking to collaborate on open-source projects.
-* 🤝 I’m looking for help improving my programming skills.
-* 💬 Ask me about C, Python, Linux, and programming.
-* 🌱 I’m currently learning new technologies and improving my coding skills.
-* ⚡ I enjoy building projects and solving problems.
+---
 
-### 🛠️ Technologies & Tools
+### About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+I'm an ITE student passionate about **software engineering, open source, AI, and cybersecurity**.
+
+I enjoy solving problems, building practical projects, and learning how technology works.
+
+* 💻 Currently focused on software engineering and programming
+* 🧠 Exploring AI and cybersecurity
+* 🐧 Linux & open-source enthusiast
+* 🤝 Open to interesting projects and collaborations
+
+### Tech Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Always learning. Always building.”</i>
+  <i>"Always learning. Always building."</i>
 </p>
-
