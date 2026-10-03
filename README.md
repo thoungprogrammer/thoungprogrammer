@@ -1,7 +1,7 @@
 # Hi, I'm Thoung Prime 👋
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3luYTgycGNxamFhYnd0OGFtMHB5azVwbGthYm40eHd1ZDljNG40dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWh7XyCODhey7epNmz/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3luYTgycGNxamFhYnd0OGFtMHB5azVwbGthYm40eHd1ZDljNG40dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWh7XyCODhey7epNmz/giphy.gif" height=50%/>
 </p>
 
 <h3 align="center">Software Engineer | ITE Student</h3>
